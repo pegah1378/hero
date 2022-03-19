@@ -6,6 +6,7 @@
 body {
   text-align: center;
   padding: 160px 20px;
+  background: #F9F7FE;
 }
 p{
     font-family: var(--main-font);
